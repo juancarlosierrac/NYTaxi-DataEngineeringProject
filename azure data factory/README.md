@@ -3,13 +3,13 @@
 ---
 
 ## Overview  
-This Azure Data Factory (ADF) pipeline automates the ingestion of NYC taxi trip data for the year 2023. It iterates 12 times, retrieving monthly parquet files from an external source and dynamically adjusting the file path based on the iteration index.
+This Azure Data Factory (ADF) pipeline iterates 12 times, retrieving monthly parquet files from an external source and dynamically adjusting the file path based on the iteration index.
 
 ---
 
 ## Pipeline Architecture  
 <div align="center">
-    <img src="https://raw.githubusercontent.com/tu-usuario/NYTaxi-DataEngineeringProject/main/images/ADF_NYTaxi_Project.png" width="800px"/>
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/ADF_NYTaxi_Project.png" width="800px"/>
 </div>
 
 ---
