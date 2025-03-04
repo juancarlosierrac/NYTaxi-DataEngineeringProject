@@ -21,5 +21,5 @@
    to the designated storage in Azure Data Lake.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/Files_at_Bronze.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/Files_at_bronze.png" width="400px"/>
 </div>  
