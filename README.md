@@ -10,7 +10,7 @@ The project follows a modern data architecture approach, integrating Azure Data 
 
 ---
 
-### **Architecture**  
+## **Architecture**  
 <div align="center">
     <img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/NY_Taxi_Project.png" 
          alt="NYC Taxi Data Pipeline Architecture" 
