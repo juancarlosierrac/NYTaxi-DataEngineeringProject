@@ -2,15 +2,10 @@
 
 ---
 
-## Overview  
-This Azure Data Factory (ADF) pipeline iterates 12 times, retrieving monthly parquet files from an external source and dynamically adjusting the file path based on the iteration index.
-
----
-
-## Pipeline Architecture  
+## Architecture  
 <div align="center">
-    <img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/ADF_NYTaxi_Project.png" width="800px"/>
-</div>
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/ADF_NYTaxi_Project.png" width="400px"/>
+</div>  
 
 ---
 
@@ -24,3 +19,7 @@ This Azure Data Factory (ADF) pipeline iterates 12 times, retrieving monthly par
    https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-XX.parquet
    ```
    to the designated storage in Azure Data Lake.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/juancarlosierrac/NYTaxi-DataEngineeringProject/main/images/Files_at_Bronze.png" width="400px"/>
+</div>  
